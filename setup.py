@@ -21,7 +21,7 @@ with open("VERSION", "r") as buf:
 
 
 setuptools.setup(
-    name="api-client",
+    name="apiclient",
     version=version,
     description="Separate the high level client implementation from the underlying CRUD.",
     long_description=long_description,
